@@ -21,7 +21,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 # ============== ADMIN & SUBSCRIPTION ==============
 # Yahan apna Telegram User ID daalo (number)
 # ID kaise pata karein: @userinfobot ko message bhejo
-ADMIN_ID = 7145835109 , 8223528319  # <-- YAHAN APNA TELEGRAM ID DAALO
+ADMIN_ID = 8223528319  # <-- YAHAN APNA TELEGRAM ID DAALO
 
 SUBSCRIBERS_FILE = "subscribers.json"
 
